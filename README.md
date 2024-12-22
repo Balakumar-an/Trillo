@@ -1,4 +1,4 @@
-### Trillo
+# Trillo
 Created a trillo web page with HTML and CSS using only flex layout
 
 # Course Material and FAQ for my Advanced CSS Course
